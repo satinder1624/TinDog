@@ -1,1 +1,3 @@
 # TinDog
+
+Beautiful Responsive Design
